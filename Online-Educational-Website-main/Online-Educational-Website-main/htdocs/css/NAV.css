@@ -1,0 +1,379 @@
+.hed{
+position:fixed;
+z-index: 1000;
+}
+
+.course{
+position:fixed;
+z-index: 1000;
+}
+.left-n{
+    --tw-text-opacity: 1;
+    color: rgb(168 85 247/var(--tw-text-opacity));
+    font-weight: 600;
+    padding-top:0.25em;
+   padding-left: 1rem;
+    cursor:pointer;
+   font-size:1.125rem;
+  line-height:1.75rem;
+  font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+
+}
+.left-n ul{
+ list-style:none;
+margin:0;
+padding:0;
+}
+.left-nav{
+padding-bottom:4rem;
+}
+.text-left {
+    margin: 3.4rem 0rem;
+    text-align: left;
+    z-index: 10;
+    height:87vh;
+    overflow-y:scroll;
+    --tw-shadow: 0 20px 25px -5px rgba(0,0,0,.1),0 8px 10px -6px rgba(0,0,0,.1);
+    --tw-shadow-colored: 0 20px 25px -5px var(--tw-shadow-color),0 8px 10px -6px var(--tw-shadow-color);
+    box-shadow: var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow); 
+position:fixed;   
+}
+.bg-purple-100 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(243 232 255/var(--tw-bg-opacity));
+}
+.f-left-page {
+    position: absolute;
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    padding: 3rem 3rem;
+    background: white;
+    color: black;
+    top: 115px;
+    left: 270px;
+}
+.pre{
+margin-bottom:26px;
+}
+.pre{
+ margin-top:0px;
+ 
+}
+.pre{
+background-color:#3d3d3d;
+padding:9px 10px;
+text-decoration:none;
+color:#fff;
+font-size:17px;
+letter-spacing:1.5px;
+}
+.pre:hover{
+background-color:#a52a2a;
+color:#fff;
+}
+.next{
+margin:2px;
+   padding: 9px 25px;
+   margin: 0em 0em 0em 44em;
+
+}
+
+.s-left-page {
+    position: absolute;
+    width: 80%;
+    height: auto;
+    margin: auto;
+    padding: 3rem 3rem;
+    background: white;
+    color: black;
+    top: 115px;
+    left: 270px;
+}
+
+
+
+
+
+
+.con-cousre .course li{
+  
+    height: 100%;
+    float: left;
+    border: none;
+    outline:none;
+    cursor: pointer;
+    padding: 0px 10px;
+    font-family: sans-serif;
+    font-size: 18px;
+   
+}
+.course{
+    height: 8%;
+}
+
+.con-cousre .tabPanel{
+    height: 100%;
+    padding-top: 105px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 18px;
+    display: none;
+
+    position: absolute;
+    width: 80%;
+    height: auto;
+    margin: auto;
+    padding: 3rem 3rem;
+    background: #f5f6fa;
+    color: black;
+    top: 117px;
+    left: 270px
+}
+
+.con-cousre .tabPanel2{
+    height: 100%;
+    padding-top: 105px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 18px;
+    display: none;
+
+    position: absolute;
+    width: 100%;
+    height:100%;
+    margin: auto;
+    padding: 3rem 3rem;
+    background: #f5f6fa;
+    color: black;
+    left:0px;
+    top:92px;
+    z-index:1;
+  
+}
+.con-cousre .tabPanel3{
+    height: 100%;
+    padding-top: 105px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 18px;
+    display: none;
+
+    position: absolute;
+    width: 100%;
+    height:100%;
+    margin: auto;
+    padding: 3rem 3rem;
+    background: #f5f6fa;
+    color: black;
+    left:0px;
+    top:92px;
+    z-index:1;
+  
+}
+
+/*.con-cousre{
+    width: 100%;
+    height: 350px;
+}*/
+
+
+.tabPanel4{
+    height: 100%;
+    padding-top: 105px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 18px;
+    display: none;
+
+    position: absolute;
+    width: 100%;
+    height:100%;
+    margin: auto;
+    padding: 3rem 3rem;
+    background:#f5f6fa;
+    color: black;
+    left:0px;
+    top:92px; 
+    z-index:1;
+}
+.tabPanel5{
+    height: 100%;
+    padding-top: 105px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 18px;
+    display: none;
+
+    position: absolute;
+    width: 100%;
+    height:100%;
+    margin: auto;
+    padding: 3rem 3rem;
+    background: #f5f6fa;
+    color: black;
+    left:0px;
+    top:92px; 
+    overflow:auto;
+    z-index:1;
+}
+.tabPanel6{
+    height: 100%;
+    padding-top: 105px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 18px;
+    display: none;
+
+    position: absolute;
+    width: 100%;
+    height:100%;
+    margin: auto;
+    padding: 3rem 3rem;
+    background: #f5f6fa;
+    color: black;
+    left:0px;
+    top:92px; 
+    overflow:auto;
+    z-index:1;
+}
+
+.search-form {
+  display: none;
+  position: absolute;
+  border:none;
+  top: 0px;
+  right: 89px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 10px;
+  z-index: 1;
+}
+
+.search-container {
+  position: relative;
+  width: 200px;
+  margin: 20px auto;
+}
+
+.search-toggle {
+  background:transparent;
+  margin-bottom:21px;
+  margin-top:6px;
+  padding: 5px 10px;
+  font-size: 16px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.search-toggle:hover {
+  background-color: #fff;
+}
+
+.search-form input[type="text"] {
+    width: 200px;
+    height: 31px;
+   padding: 8px;
+   border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  box-shadow: none;
+}
+
+.search-form button[type="submit"] {
+  display: none;
+}
+
+
+.autoty{
+    width: 246px;
+    overflow: hidden;
+}
+.autoty .auto{
+    position: relative;
+    color: #4070F4;
+    font-size: 30px;
+    font-weight: 600;
+}
+.autoty .auto.auto1{
+    color:#fff;
+}
+.auto.auto2:before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color:#f5f6fa;
+    border-left: 2px solid #4070F4;
+    animation: animate 4s steps(12) infinite;
+}
+@keyframes animate{
+    40%, 60%{
+        left: calc(100% + 4px);
+    }
+    100%{
+        left: 0%;
+    }
+}
+
+.cour{
+   margin-bottom: 25px;
+   padding:0 14rem;
+}
+
+
+
+
+
+
+
+/* Dropdown CSS */
+.dropdown-icon {
+  display: none;
+  float: right;
+}
+
+.dropdown-icon .icon {
+  display: block;
+  padding: 10px 15px;
+  background-color: #333;
+  color: #fff;
+  cursor: pointer;
+}
+.fnt {
+    margin-top: 91px;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  width: 100%;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #f1f1f1;
+}
+
+
+    iframe {
+        border: none; /* remove the border */
+        overflow: hidden; /* hide the scrollbar */
+        padding: 0; /* remove the padding */
+    }
+
+
+
+
+

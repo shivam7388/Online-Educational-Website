@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Resume Template</title>
+    <style>
+      body {
+        background-color: #f1f1f1;
+      }
+      
+      .container {
+        margin:auto;
+        margin-top: 7rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: 350px;
+        width: 35rem;
+        background-color: white;
+        animation-name: example;
+        animation-duration: 3s;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      }
+      
+      @keyframes example {
+        from {background-color: white;}
+        to {background-color: #f1f1f1;}
+      }
+
+      .btn {
+        display: inline-block;
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 14px 20px;
+        margin-top: 20px;
+        font-size: 16px;
+        cursor: pointer;
+        border-radius: 5px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+        animation-name: button-animation;
+        animation-duration: 2s;
+        animation-iteration-count: infinite;
+      }
+
+      @keyframes button-animation {
+        0% {transform: scale(1);}
+        50% {transform: scale(1.1);}
+        100% {transform: scale(1);}
+      }
+       h1{
+       padding:0px;
+       margin:2px;
+        }
+       p{
+       padding:0px;
+        margin:2px;
+        }
+       a{
+          text-decoration:none;
+          color:#fff;
+         }
+       .clr{
+           color:#a807d2;
+          }
+  @media only screen and (max-width: 500px) {  
+.container {
+    padding: 1rem;
+    height: 100%;
+    width: 100%;
+    }
+}
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Make an outstanding</h1>
+      <h1>resume for free in minutes.</h1>
+      <p>Showcase yourself and your achievements with an impressive resume made with the</p>
+      <p>free online <strong class="clr">resume</strong> maker from SmartLearner's.</p>
+      <button class="btn"><a href="resume3.php">Create Your Resume Now</a></button>
+    </div>
+
+  
+
+  </body>
+</html>

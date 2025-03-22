@@ -1,0 +1,9 @@
+hFYpIjNvrWQszVTY1*OE
+wB7lvIHZ!C&3Wp5y3GPv
+
+
+
+ZXsj]9SIZ7+eDfuA    database
+
+
+alter table threads add FULLTEXT(`thread_title`, `thread_desc`);

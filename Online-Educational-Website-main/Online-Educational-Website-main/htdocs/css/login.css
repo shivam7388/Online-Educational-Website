@@ -1,0 +1,202 @@
+
+body {
+   margin:0px;
+   padding:0px;
+}
+.logo{
+    color: #ff7200;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 5px
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    background: #ff7200;
+    border: 2px solid #ff7200;
+    margin-top: 13px;
+    color: #fff;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    transition: 0.2s ease;
+    cursor: pointer;
+}
+.btn:hover{
+    color: #ff7200;
+}
+
+.btn:focus{
+    outline: none;
+}
+.form{
+    margin-top:4rem;
+    display:flex;
+    width: 548px;
+    height: 411px;
+    position: absolute;
+   top: 113px;
+    left: 431px;
+    transform: translate(0%,-5%);
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+
+}
+
+.form h2{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #ff7200;
+    font-size: 22px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+}
+
+.form input{
+    width: 258px;
+    height:38px;
+    background: transparent;
+    border-bottom: 1px solid #ff7200;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 21px;
+    font-family: sans-serif;
+}
+
+.form input:focus{
+    outline: none;
+}
+
+::placeholder{
+    font-family: Arial;
+}
+
+.btnn{
+    width: 240px;
+    height: 40px;
+    background: #ff7200;
+    border: none;
+    margin-top: 21px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+    transition: 0.4s ease;
+}
+.btnn:hover{
+    background: #ff7200;
+    color: #ff7200;
+}
+.btnn a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+.form .link{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    padding-top: 12px;
+    text-align: center;
+    margin-right:106px;
+}
+.form .link a{
+    text-decoration: none;
+    color: #ff7200;
+}
+.liw {
+    padding-top: 9px;
+    padding-bottom: 37px;
+    text-align: center;
+margin-right:106px;
+}
+.icons a{
+    position: relative;
+    top: -2rem;
+    text-decoration: none;
+    color: #fff;
+}
+.icons ion-icon{
+    color: rgb(102, 101, 99);
+    font-size: 30px;
+    padding-left: 14px;
+    padding-top: 5px;
+    transition: 0.3s ease;
+}
+.icons ion-icon:hover{
+    color: #ff7200;
+}
+.icons{
+color:#ff7200;
+}
+.log-img{
+    padding: 0px 26px 0px 0px;
+}
+img{
+    height: 100%;
+    width: 194%;
+}
+.log-div{
+    position: relative;
+    top: 0px;
+    left: 104px;
+}
+.alert {
+  position: relative;
+  padding: .75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  margin-top:3rem;
+}
+.alert2{
+  position: relative;
+  padding: .75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  margin-top:3rem;
+}
+
+  .alert-success {
+    background-color: #d4edda;
+    border-color: #c3e6cb; 
+    color: #155724; 
+  }
+ .alert-danger {
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+  color: #721c24;
+}
+
+.alert-dismissible {
+  margin-top:71px;
+  padding-right: 4rem;
+}
+
+.alert-dismissible .btn-close {
+  position: absolute;
+  top:2px;
+  right:2px;
+  z-index: 2;
+  color: inherit;
+}
+.alert-dismissible .btn-close2{
+  position: absolute;
+  top:2px;
+  right:2px;
+  z-index: 2;
+  color: inherit;
+}
+.btnn:hover {
+    background: #ff7200;
+}

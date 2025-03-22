@@ -1,0 +1,479 @@
+.course{
+    z-index:1;
+}
+ @media only screen and (max-width: 500px) {
+ .wid{
+   width:35rem;
+ }
+.sidebar{
+ left:-300px;
+ }
+.menu-btn {
+    padding: 7px;
+    display: block;
+    float: right;
+    background: black;
+    margin-left: 15px;
+}
+.font13{
+ font-size:13px;
+}
+.wrapper4{
+ margin-top:0px;
+}
+.wrapper5{
+ margin-top:70px;
+}
+.wrapper3{
+font-size: 13px;
+ margin-top:0px;
+}
+
+.ml{
+   margin-left:0%;
+ }
+  .hed {
+     height: 90px;
+   }
+ }
+@media only screen and (max-width: 500px) {
+.fa, .fas {
+    font-family: "Font Awesome 5 Pro";
+    font-weight: 900;
+}
+
+.container{
+width:100%;
+}
+.container .content .form .contact-form textarea {
+    width: 16rem;
+}
+
+.grid{
+  display:block;
+}
+
+.grid{
+width:auto;
+}
+.card-btn{
+border:none;
+border-radius:3px;
+}
+.wrapp{
+ padding:26px;
+}
+.wrapp .box {
+    box-sizing:border-box;
+    font-size:20px;
+    margin-left:0px;
+    margin-right:0px;
+    padding:20px;
+}
+.cen{
+ margin-top:0px;
+ font-size:40px;
+}
+#fonsiz{
+  font-size:.875rem;
+}
+#typ{
+  font-size:30px;
+   font-weight:600;
+}
+.box p{
+  font-size:17px;
+}
+.box .info .name{
+  font-size:20px;
+}
+.box .info{
+  font-size:20px;
+}
+.box .info .job{
+  font-size:18px;
+}
+.box .content .image{
+  height:4.625rem;
+  width:4.625rem;
+}
+
+}
+@media only screen and (max-width: 1000px) {
+.textarea{
+  width:100%;
+  height:50vh;
+}
+#result-box{
+  width:100%;
+  height:50vh;
+ 
+}
+.sidebar{
+  height:100%;
+}
+
+.con-cousre .tabPanel{
+   width:auto;
+}
+
+   .cour{
+     padding:0 1rem;
+    }
+   .ml{
+     margin-left:50%;
+   }
+
+h1 {
+        
+	font-size: 1.75rem;
+        margin:0px;
+}
+p{    
+	font-family: Georgia;
+	font-size: 1.25rem;
+}
+.course{
+    height:5%;
+}
+ .grid{   
+grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
+}
+
+ @media only screen and (max-width: 750px) {
+
+.ml{
+   margin-left:0%;
+ }
+ .grid{
+   margin:auto;
+   margin-bottom:20px;
+  }
+  .grid-item{
+     margin-bottom:20px;
+   }
+
+  }
+
+  }
+@media only screen and (max-width:1100px) {
+.section{
+    min-height:45vh;
+  }
+  .fa{
+       font: normal normal normal 14px/1 FontAwesome;
+       font-size:40px;
+}
+}
+@media only screen and (max-width:2500px) {
+
+   .section {
+      min-height:57vh;
+   }
+@media only screen and (max-width:1400px) {
+  .section {
+    min-height:52vh;
+   }
+}
+@media only screen and (max-width:1300px) {
+.course {
+    height: 12%;
+}
+.next{
+   float:right;
+   margin:auto;
+ }
+.section {
+    min-height:34vh;
+}
+.con-section {
+    display: flex;
+    text-align: center;
+    width: 100%;
+    margin-bottom:53px;
+}
+.image-section{
+    display:none;
+  }
+#content{
+ display:inline-block;
+
+}
+.ser {
+    margin-left: 14rem;
+}
+.home {
+    margin-right: 14rem;
+}
+
+ @media only screen and (max-width: 750px) {
+.course{
+    height:7%;
+  }
+ @media only screen and (max-width: 500px) {
+.course{
+    height:6%;
+  }
+}
+@media only screen and (max-width:2955px){
+.section{
+min-height:58vh;
+}
+@media only screen and (max-width:1300px) {
+.section {
+    min-height:34vh;
+}
+}
+
+@media only screen and (max-width:2955px){
+.r{
+display:none;
+}
+ .tex{
+    display:inline;
+     height:10.1vh;
+    }
+.texs{
+     display:inline;
+     height:12vh;
+    }
+
+}
+@media only screen and (max-width:1800px){
+ .tex{
+     height:14vh;
+    }  
+@media only screen and (max-width: 500px) {
+.r{
+display:block;
+}
+}
+
+
+
+@media only screen and (max-width:1300px) {
+.fom{
+    justify-content:center;
+    position:unset;
+    margin: 8rem auto;   
+}
+
+.dflex{
+  display:block;
+}
+.fom2{
+    justify-content:center;
+    position:unset;
+    margin: 8rem auto;   
+}
+
+}
+@media only screen and (max-width:500px) {
+.log-div{
+left:0.4rem;
+}
+.ma-lr{
+ margin-left:0.8rem;
+}
+.fom{
+    width:auto;
+    margin: 2rem;
+    margin-top: 7rem;
+}
+.con-cousre .tabPanel{
+  left:0px;
+}
+.form .log-img{
+   display:none;   
+}
+.fom{
+    justify-content:center;
+    position:unset; 
+ }
+.form .link{
+   margin-right:2rem;
+  }
+.liw{
+    margin-right:2rem; 
+ }
+
+.fom2{
+    justify-content:center;
+    position:unset;
+    margin: 7rem 3rem; 
+    width:auto;
+    height:auto;  
+ } 
+.fom2 .log-div{
+   left:63px;
+  }
+}
+  @media only screen and (max-width: 400px) {
+.fom2 .log-div{
+   left:0px;
+  }
+.signup-down {
+  width:89%;
+  margin-left:12px;
+}
+}
+  @media only screen and (max-width: 500px) {
+    table {
+      width: 100%;
+    }
+    
+    td {
+      display: block;
+      width:100vw;
+      margin:auto;
+      margin-bottom: 20px;
+      margin-top:20px;
+    }
+    .fnt{
+     margin-top:91px;
+     font-size:40px;
+    }
+    .m1{
+      margin:0rem;
+     }
+    .cour{
+     padding:0rem;
+    }
+  }
+
+
+
+
+
+
+@media only screen and (max-width:500px) {
+  footer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: auto;
+    padding: 1rem; 
+  }
+  footer img {
+    max-width: 50%;
+    margin-bottom: 1rem;
+  }
+  .foot {
+    margin: auto;
+    font-size: 16px;
+    margin-bottom: 0.5rem;
+  }
+}
+
+
+
+@media (max-width: 768px) {
+   .autoty{
+    overflow:hidden;
+  }
+
+    #slideshow {
+        height: 200px;
+        max-width: 100vw;
+      margin: 122px auto 70px auto;
+
+    }
+
+    .slide {
+        height: 200px;
+        width: 100vw;
+        background-size: cover;
+
+    }
+
+    .slide-wrapper {
+        display: inline-flex;
+         overflow: hidden;
+        width: calc(100vw * 4);      
+    }
+    .slide-number {
+		margin: 18% 0;
+       text-align: center;
+
+	}
+@keyframes slide {
+    0% {
+        margin-left: 0%;
+    }
+    25% {
+        margin-left: calc(-100% * 1);
+    }
+    50% {
+        margin-left: calc(-100% * 2);
+    }
+    75% {
+        margin-left: calc(-100% * 3);
+    }
+    100% {
+        margin-left: calc(-100% * 4);
+    }
+  }
+
+ @media only screen and (max-width: 500px) {
+.slide {
+    height: 20vh;
+   }
+.slide h1{
+   font-size:16px;
+   margin-top:-31px;
+}
+.slide p{
+ font-size:10px;
+}
+#slideshow {
+    width: 90vw;
+    height: 20vh;
+    margin: 122px 20px 20px 20px;
+}
+footer h3 {
+    color: white;
+    float: none;
+    margin: auto;
+  }
+.home {
+    margin-right: 0rem;
+    padding:0px;
+}
+.ser {
+     margin-left: 0rem; 
+  }
+.con-cousre .course li {
+ padding:0px;
+ font-size:14px;
+ }
+.search-toggle{
+   margin-top:4px;
+   padding:5px 7px;
+  }
+.course li a {
+   padding:15px 6px;
+  }
+}
+
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

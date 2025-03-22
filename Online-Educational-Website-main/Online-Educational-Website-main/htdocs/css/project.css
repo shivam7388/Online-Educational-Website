@@ -1,0 +1,85 @@
+
+.speaks{
+  background:#6e00ff;
+  display: inline-block;
+  border: 18px solid #6e00ff ;
+    box-shadow: 1px 1px 5px;
+}
+.speaks button{
+background-color:#3d3d3d;
+padding:0.3em 1em;
+text-decoration:none;
+color:#fff;
+font-size:25px;
+letter-spacing:1.5px;
+display:flex;
+margin:auto;
+}
+.speaks button:hover{
+background-color:#a52a2a;
+color:#fff;
+}
+.download button{
+background-color:#3d3d3d;
+padding:0.3em 1em;
+text-decoration:none;
+color:#fff;
+font-size:25px;
+letter-spacing:1.5px;
+display:flex;
+margin:auto;
+}
+.download button:hover{
+background-color:#a52a2a;
+color:#fff;
+}
+.speaks p{
+background:#b5bdbd;
+padding: 0.3em 2em;
+    border-radius: 0.3em;
+}
+.speaks select{
+background:#b5bdbd;
+padding: 0.3em 2em;
+    border-radius: 0.3em;
+display: flex;
+    margin-top:6px;
+}
+.inpu{
+background:#efecee;
+border-radius: 0.3em;
+}
+.download{
+    margin-top: 1rem;
+}
+.download a{
+text-decoration:none;
+}
+table{
+  margin-top:3.5em;
+  width:100%;
+  height:auto;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+td {
+  padding: 20px; 
+  text-align: center; 
+}
+.top-m1{
+margin-top:3em;
+}
+.top-m{
+ margin-top:3em;
+}
+iframe{
+  height: 24.0625rem;
+  width: 35rem;
+}
+ @media only screen and (max-width: 500px) {
+.top-m{
+ height: 55vh;
+ width: 100%;
+}
+
+}
